@@ -12,7 +12,7 @@ W trakcie kursu w ramach kolejnych spotkań i zadań uczestnicy zapoznają się 
 | Lp.  | Temat zajęć | Wprowadzone narzędzia |Termin zajęć|
 | ------------- | ------------- |-| -|
 | 1.  | Przetwarzanie i wizualizacja danych | pandas, Pyplot, seaborn  |6.08|
-| 2.  | Uczenie maszynowe | sklearn |13.08|
+| 2.  | Wstęp do uczenia maszynowego | sklearn |13.08|
 | 3.  | Sieci neuronowe i przetwarzanie obrazów | torch  |20.08|
 | 4.  | LLMy i przetwarzanie tekstu |langchain  |27.08|
 ### Projekt
