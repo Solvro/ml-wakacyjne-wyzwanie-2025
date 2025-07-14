@@ -9,11 +9,23 @@ Są wakacje, także nieobecności i spóźnienia nie będą dużym problemem - z
 ## Jaki materiał będziemy przerabiać?
 ### Lekcje
 W trakcie kursu w ramach kolejnych spotkań i zadań uczestnicy zapoznają się z następującymi zagadnieniami:
-- przetwarzanie i wizualizacja danych
-- podstawy sztucznej inteligencji i uczenia maszynowego
-- sieci neuronowe i przetwarzanie obrazów
-- LLMy i przetwarzanie tekstu
+| Lp.  | Temat zajęć | Wprowadzone narzędzia |Termin zajęć|
+| ------------- | ------------- |-| -|
+| 1.  | Przetwarzanie i wizualizacja danych | pandas, Pyplot, seaborn  |6.08|
+| 2.  | Wstęp do uczenia maszynowego | sklearn |13.08|
+| 3.  | Sieci neuronowe i przetwarzanie obrazów | torch  |20.08|
+| 4.  | LLMy i przetwarzanie tekstu |langchain  |27.08|
+### Projekt
+Po cyklu lekcji uczestnicy pod nadzorem mentorów będą przygotowywać **projekt grupowy**, wykorzystując w praktyce nabyte umiejętności. 
+| Lp.  | Temat zajęć |Data|
+| ------------- | ------------- |-|
+| 5.  | Projekt - wstęp  |3.09|
+| 6.  | Projekt - kontynuacja  |10.09|
+| 7.  | Projekt - zakończenie  |17.09|
 
-Po cyklu lekcji uczestnicy pod nadzorem mentorów będą przygotowywać **projekt grupowy**, wykorzystując w praktyce nabyte umiejętności. Po wykonaniu całego kursu otrzymasz certyfikat.
-## Gdzie szukać informacji?
+Po wykonaniu projektu i zakończeniu całego kursu otrzymasz certyfikat.
+
+
+
+## Gdzie szukać więcej informacji?
 Aby nic nie przegapić śledźcie nasz [fanpage](https://www.facebook.com/knsolvro), a w szczególności [stronę wydarzenia](https://www.facebook.com/events/706598762353315/)
