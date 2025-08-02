@@ -169,6 +169,10 @@ i kliknąć `Start a review`. Wtedy na głównej stronie pull requestu pojawi si
 
 ![alt text](<screenshots/Screenshot 2025-07-26 at 18.46.56.png>)
 
+Jako iż w pull request jupyter notebooki są pokazywane jakby w formacie jsona, dobrym pomysłem jest przejście z pull requesta na faktyczny notebook i tam na niego spojrzeć i w pull request napisać normalny komentarzy (nie koniecznie zaznaczając fragment jsona).
+
+<img width="628" height="520" alt="Screenshot 2025-08-01 at 16 49 36" src="https://github.com/user-attachments/assets/c56ed21f-a829-49e3-a34c-e61fc8d1ae2b" />
+
 Ostatecznie jeśli wszystko zostało rozwiązane czy to jakiś konflikt czy jakieś zrequestowane zmiany w kodzie osoba która robi approve i klika `Merge Pull Request` i w ten oto sposób zmiany z brancha zostały wrzucone na main.
 
 ## Discord
