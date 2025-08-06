@@ -57,7 +57,7 @@ Jeśli wchodzicie znowu na strone Google Colab i chcecie dokończyć robote co z
 a jak chcecie się przełączyć z jednego notebooka na drugi to poprzez `File -> Open notebook` i dostaniecie to samo okno.
 
 ## GitHub
-W ramach tego kursu będziecie mieć przypisane dwa branche `dev` i `main` na repozytorium kursu, jeden będzie pod development z którego będziecie robić pull requesty na waszego maina. Więc w tym etapie przejdziemy przez całe workflow.
+W ramach tego kursu będziecie mieć własnego brancha `dev` na repozytorium kursu, który wam wygenerujemy, na nim będziecie przesyłać swoje rozwiązania zadań i z poziomu swojego brancha będziecie tworzyć pull request na maina, jedyne co będziecie musieli zrobić to przypisać się jako assignee, a my wam przydzielimy reviewerów zadania, jak i zamkniemy pull request przy podanym przez nas terminie po zakończeniu review.
 
 ### 1. Pobierz notebook z maina z GitHuba
 
