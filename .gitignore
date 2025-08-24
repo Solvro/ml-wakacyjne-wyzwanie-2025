@@ -1,2 +1,5 @@
 /data
 /.venv
+/.vscode
+/.vscode3_nn&cv/data/train_dataset.pt
+*.pt
