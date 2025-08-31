@@ -3,3 +3,5 @@
 /.vscode
 /.vscode3_nn&cv/data/train_dataset.pt
 *.pt
+/torch_env
+4_nlp/faiss_index_hf/
