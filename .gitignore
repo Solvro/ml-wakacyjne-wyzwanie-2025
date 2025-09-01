@@ -1,0 +1,16 @@
+# Pliki PyCharma
+.idea/
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
+
+# Pliki Pythona
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Wirtualne środowiska
+venv/
+.env/
